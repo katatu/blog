@@ -27,3 +27,7 @@ How To Install MySQL on Windows 10 (little too long, but lovely and I had fun, w
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 It is my blog and I like it so far. Perfect, so much done today and I feel good about it.
+
+Finally I managed to install MySQL (after few times fixing sth, uninstalling and installing again, third time was good one), create database (trying on command line, but finally I found another way in Workbench which worked), create new user - than add entry and add an existing database with changing privileges. I have learned, that "schema" is "database". So create new schema, set schema privilegies and so on. It works! Wow! It took so long and it is done.
+
+Than wordpress instalation on localhost finished succesfully. Eventhough MySQL occupies port 3306, so MAMP took another one. I was worried, but it seems connection works well and database is accesible. Well done :)
