@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Starting Github, downloading stuff to connect WP and bootstrap"
 date: 2020-09-27
 ---
 
