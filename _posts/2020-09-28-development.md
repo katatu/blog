@@ -8,4 +8,4 @@ Another news form Atom: View - Toggle Soft Wrap =) Nice =)
 
 38:26 - connection intension - doesn't work, I don't wanna go back to find where is the mistake... see-no-evil
 
-I uninstalled French keyboard setting (laguages). Maybe one day it will be back. But now, it's enought to swich between CS/EN to code. Thrird option became to confusing for me. Too much. Au revoir!
+I uninstalled French keyboard setting (laguages). Maybe one day it will be back. But now, it's enought to swich between CS/EN to code. Third option became to confusing for me. Too much. Au revoir!
