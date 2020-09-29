@@ -7,4 +7,4 @@ https://search.google.com/test/mobile-friendly
 
 Both easy and useful for me, including simple recommendation how to improve and additional recources.
 
-And Google Analytics of course. Tests say only: website works okey, visiters can see it. Analytics say someting more.
+And Google Analytics of course. Tests say only: website works okey, visitors can see it. Analytics say someting more.
