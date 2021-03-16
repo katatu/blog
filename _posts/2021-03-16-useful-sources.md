@@ -5,9 +5,9 @@ Hi myself, again. News from Atom Packages, Bootstrap, color picker, bootstrapmad
 -- to be found in Atom: Packages > Settings View > Install Packages
 -- fresh new installed I have "Compare Files" and I am hapy to use it, it works perfect, just as I expected - it compares files and shows the result ;)
 
-* Bootstrapemade team saves our time and created nice templates https://bootstrapmade.com
+* Bootstrapmade team saves our time and created nice, well-commented templates https://bootstrapmade.com
 
-* Encyklopedies and tutorials I am using at time
+* Sources, encyclopedias and tutorials I am using nowadays
   * W3Schools https://www.w3schools.com/ for bootstap especialy, html & css too sometimes 
   * Jak psát web - html, css https://www.jakpsatweb.cz/
   * Codecademy  https://www.codecademy.com/ - still good, good introductions for different topics (few days ago I finished refreshing HTML course, good to resfresh HTML5 structure tags, and continue with PHP)
@@ -20,17 +20,17 @@ https://colorpicker.me
 this one or any other, useful tool with color combinations too
 
 * Icons Bootstrap
-https://icons.getbootstrap.com/
-well done!
+https://icons.getbootstrap.com/ 
+fresh, brand new, well done!
 
 * Fonts Google
-easy instuctions how to use them in way we need
+easy instructions how to use them in any way we need
 https://developers.google.com/fonts/docs/getting_started
 
 > HTML + CSS is fine with internet browser
 > PHP needs server, yaeh, it's server side :) (so I'm using MAMP)
 
-Yesterday great progress was done - I was able to launch the database webside "dogs archive" (for Blanka). I went through Readme and Instructions about setting paths in diverse files and creating new database in phpMyAdmin and import existing template. Good start! I am glad first steps are going well.
+Yesterday great progress was done - I was able to launch (on localhost) the database webside "dogs archive" (for Blanka). I went through Readme and Instructions about setting paths in diverse files and creating new database in phpMyAdmin and import existing template. Good start! I am glad first steps are going well.
 
 
 Geting started with SEO https://developers.google.com/search/docs/basics/get-started might be interesting, I add it to thist list
